@@ -1,0 +1,28 @@
+{
+  "model": "best_model_v4_fixed.keras",
+  "split": "Per-class 80/20, seed 42; recreated from current DATASET using V4 notebook logic",
+  "validation_images": 8403,
+  "accuracy": 0.9752469356182316,
+  "class_order": [
+    "Biodegradable",
+    "Nonbiodegradable",
+    "Recyclable"
+  ],
+  "confusion_matrix": [
+    [
+      2846,
+      23,
+      35
+    ],
+    [
+      9,
+      2616,
+      130
+    ],
+    [
+      6,
+      5,
+      2733
+    ]
+  ]
+}

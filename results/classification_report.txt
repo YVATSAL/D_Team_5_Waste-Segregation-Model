@@ -1,0 +1,4 @@
+Class                 Precision    Recall        F1   Support
+Biodegradable          0.9948     0.9800    0.9873   2904
+Nonbiodegradable       0.9894     0.9495    0.9691   2755
+Recyclable             0.9431     0.9960    0.9688   2744
