@@ -1,3 +1,9 @@
+# Team Details -
+Yalamanchili Vatsal-20233585\
+Tanishq Gupta-20233290\
+Tanishk Agrawal-20233289\
+Vaibhav Singh-20233300\
+
 # Waste Segregation Using Deep Learning — Team-05
 
 An academic project by **Team-05** that classifies waste photographs as **Biodegradable**, **Nonbiodegradable**, or **Recyclable**. The Streamlit application lets a reviewer upload an image and view its predicted class and model scores.
@@ -127,17 +133,3 @@ Image quality and differences from the training images affect predictions. Categ
 
 See [LICENSE](LICENSE). Check dataset and sample-image permissions separately.
 
-## Publish this folder as a new GitHub repository
-
-Create an empty repository on GitHub, then open a terminal inside this submission folder and run the following commands. Replace `<YOUR-NEW-REPOSITORY-URL>` with the URL of your new repository.
-
-```bash
-git init
-git add .
-git commit -m "Add Team-05 V4 waste segregation project"
-git branch -M main
-git remote add origin <YOUR-NEW-REPOSITORY-URL>
-git push -u origin main
-```
-
-Before sharing with your professor, replace the clone URL and repository folder placeholders in this README and add the dataset source and attribution. The saved-model demo works without the dataset.
