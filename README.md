@@ -1,9 +1,9 @@
 # Team Details -
-Yalamanchili Vatsal-20233585 
-Tanishq Gupta-20233290 
-Tanishk Agrawal-20233289 
-Vaibhav Singh-20233300 
-
+Yalamanchili Vatsal-20233585\
+Tanishq Gupta-20233290\
+Tanishk Agrawal-20233289\
+Vaibhav Singh-20233300\
+\
 
 # Waste Segregation Using Deep Learning — Team-05
 
